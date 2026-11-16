@@ -260,6 +260,7 @@ main{
     border-radius: 4px;
     font-size: 24px;
     cursor: pointer;
+    color: #1A0B00;
 }
 .form_item {
     position: relative;
@@ -636,6 +637,13 @@ main{
     .contacts__desc,
     .contacts__links {
         font-size: 16px;
+    }
+    .card__btn-add {
+        top: 20px;
+        right: 20px;
+        width: 32px;
+        height: 32px;
+        font-size: 20px;
     }
 }
 .show {
